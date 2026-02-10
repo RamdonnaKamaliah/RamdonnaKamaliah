@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi! I'm a web designer and front-end developer who loves creating attractive and user-friendly websites. 💎
+#💫 About Me:
+I am someone who has a strong interest in technology, especially web development. I enjoy learning programming languages ​​and exploring the roles of frontend and backend developers.💎
 
 
 ## 🌐 Socials:
